@@ -133,7 +133,7 @@ a:hover{
     
 }
 
-.carousel-control-next,
+ .carousel-control-next,
 .carousel-control-prev {
     filter: invert(100%);
 }
